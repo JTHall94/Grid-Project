@@ -1,0 +1,15 @@
+[v-cloak] {
+    display: none
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    padding: .25em;
+}
+
+.grid-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
